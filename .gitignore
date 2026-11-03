@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+# Jupyter
+.ipynb_checkpoints
+# VS Code
+.vscode/
+# Streamlit cache
+.streamlit/
+# Temporary files
+tmp/
+# OS files
+.DS_Store
+Thumbs.db
